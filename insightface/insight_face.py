@@ -173,5 +173,3 @@ def insight_face(path = "16_backbone.pth", device = "cuda", train=False):
         return model
     
     return model.eval()
-    
-    
